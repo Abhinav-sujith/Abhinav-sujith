@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center" style="color:#2ECC71; font-weight:bold;">
+<p align="left" style="color:#2ECC71; font-weight:bold;">
   - <strong>Data Analyst</strong> with a passion for transforming data into intelligent systems <br>
   - Tools: Python, SQL, Power BI, Scikit-learn, Pandas, NumPy, Tableau, Notion <br>
   - Exploring Regression, NLP, Transformers, and Generative AI through real-world projects <br>
