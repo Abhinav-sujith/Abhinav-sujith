@@ -7,7 +7,8 @@
 </h3>
 
 <p align="center" style="margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=2ECC71&center=true&width=580&lines=Unveiling+insights+hidden+in+data;Crafting+dashboards+that+empower+decisions;Learning+Python%2C+SQL%2C+and+Cloud+Data+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=2ECC71&center=true&width=580&lines=Unveiling+insights+hidden+in+data;Crafting+dashboards+that+empower+decisions;Learning+Python%2C+SQL%2C+and+Cloud" alt="Typing SVG" />
+
 </p>
 
 <hr style="border:none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60); margin: 25px 0;" />
