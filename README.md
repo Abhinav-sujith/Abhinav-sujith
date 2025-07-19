@@ -70,9 +70,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="30" alt="LinkedIn" />
   </a>
 </p>
-<hr style="border:none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60); margin: 40px 0;" />
-
-<hr style="border:none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60); margin: 40px 0;" />
 
 <h2 align="left" style="color:#27ae60; font-weight: 700; margin-bottom: 15px;">Certificates & Achievements</h2>
 <ul style="list-style: none; padding-left: 0; color:#27ae60; font-size: 1.1rem; line-height: 1.6;">
