@@ -29,11 +29,12 @@
 
 ### About Me
 
-* 🧙‍♂️ I turn raw data into meaningful insights — part analyst, part engineer, full-time learner  
-* 🔍 Passionate about building smart solutions using Python, SQL, ML, and interactive dashboards  
-* 🤖 Exploring large language models, generative AI, and automating workflows  
-* 📊 Every dataset is a story — I love shaping it through visuals, predictions, and smart design  
-* 🇨🇦 Moved from India to Canada for further education — now actively seeking job opportunities in Canada  
+- Aerospace Engineering graduate with a strong foundation in analytical thinking and problem-solving
+- Holder of two postgraduate diplomas — one in Business and another in Data Analysis for Decision Making
+- Aspiring Data Analyst and Data Engineer, passionate about turning complex data into actionable insights and scalable solutions
+- Continuously learning and growing every day — eagerly picking up new skills, tools, and technologies to stay ahead
+- Enthusiastic about leveraging Python, SQL, machine learning, and data engineering to drive smarter business decisions
+- Recently relocated from India to Canada for further education and actively seeking opportunities to contribute and grow in the Canadian data ecosystem 
 
 ---
 <h3 align="center">Tech I Use</h3>
