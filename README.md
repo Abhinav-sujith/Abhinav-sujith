@@ -72,10 +72,13 @@
 </p>
 <hr style="border:none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60); margin: 40px 0;" />
 
+<hr style="border:none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60); margin: 40px 0;" />
+
 <h2 align="left" style="color:#27ae60; font-weight: 700; margin-bottom: 15px;">Certificates & Achievements</h2>
 <ul style="list-style: none; padding-left: 0; color:#27ae60; font-size: 1.1rem; line-height: 1.6;">
   <li>🎓 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/67afe3a5aef497ada08a0f58327a8998493f2ce3" target="_blank" style="color:#2ecc71; text-decoration: underline;">DataCamp — Data Analyst with Python Track</a></li>
-  <li>🏅 <a href="https://www.hackerrank.com/certificates/73dad1af7a53" target="_blank" style="color:#2ecc71; text-decoration: underline;">HackerRank — Problem Solving Certificate</a></li>
+  <li>🏅 <a href="https://www.hackerrank.com/certificates/73dad1af7a53" target="_blank" style="color:#2ecc71; text-decoration: underline;">HackerRank — SQL Basic Certificate</a></li>
+  <li>🏅 <a href="https://www.hackerrank.com/certificates/ad1cc5e5a22f" target="_blank" style="color:#2ecc71; text-decoration: underline;">HackerRank — SQL Intermediate Certificate</a></li>
   <li>📜 <a href="https://learn.microsoft.com/en-us/users/abhinavsujith-1470/credentials/89c4f2988e1ab55d?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="color:#2ecc71; text-decoration: underline;">Microsoft Learn — Data Engineering Credentials</a></li>
 </ul>
 
